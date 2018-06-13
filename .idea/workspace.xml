@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8a61df15-0c0f-4049-bfda-de93bc147339" name="Default" comment="" />
+    <list default="true" id="8a61df15-0c0f-4049-bfda-de93bc147339" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../rpcserver/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpcserver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rpcserver/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/..///rpcregistry/target/" />
@@ -59,8 +62,8 @@
       <file leaf-file-name="RpcHandler.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../rpcserver/src/main/java/cn/itcast/rpc/server/RpcHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="129">
-              <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+            <state relative-caret-position="376">
+              <caret line="56" column="27" selection-start-line="55" selection-start-column="5" selection-end-line="56" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -107,6 +110,10 @@
     <findStrings>
       <find>handlerMap</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../rpcserver" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -189,6 +196,7 @@
     <option name="width" value="1400" />
     <option name="height" value="912" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -239,13 +247,13 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/..//rpc-sample-server" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../git/bin/git.exe" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -430,7 +438,7 @@
       <workItem from="1528716964220" duration="15265000" />
       <workItem from="1528783678579" duration="2909000" />
       <workItem from="1528786762099" duration="17485000" />
-      <workItem from="1528851025207" duration="6182000" />
+      <workItem from="1528851025207" duration="6914000" />
     </task>
     <servers />
   </component>
@@ -467,11 +475,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43775000" />
+    <option name="totallyTimeSpent" value="44507000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -479,11 +486,11 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50321335" side_tool="true" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50064266" side_tool="true" visible="true" weight="0.32974428" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.32840616" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49678662" visible="true" weight="0.3293011" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.4993573" visible="true" weight="0.32974428" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49678662" weight="0.32974428" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3293011" />
       <window_info id="Capture Tool" order="2" />
@@ -912,8 +919,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../rpcserver/src/main/java/cn/itcast/rpc/server/RpcHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="129">
-          <caret line="43" lean-forward="true" selection-start-line="43" selection-end-line="43" />
+        <state relative-caret-position="376">
+          <caret line="56" column="27" selection-start-line="55" selection-start-column="5" selection-end-line="56" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
