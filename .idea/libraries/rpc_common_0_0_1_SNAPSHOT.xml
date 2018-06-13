@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="rpc-common-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../BaiduNetdiskDownload/rpc-common/target/rpc-common-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
